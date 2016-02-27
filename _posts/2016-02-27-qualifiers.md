@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T13:08:19.741Z'
-dateModified: '2016-02-27T05:14:59.298Z'
+datePublished: '2016-02-27T13:09:55.261Z'
+dateModified: '2016-02-27T13:08:35.551Z'
 title: Day 1a
 author: []
 sourcePath: _posts/2016-02-27-qualifiers.md
@@ -30,7 +30,7 @@ The 8 qualifiers for day 1a are as follows:
 
 * Steve Place 190,300
 
-* Lee doran 161,500
+* Lee Doran 161,500
 
 * Isaac Lloyd 105,800
 
