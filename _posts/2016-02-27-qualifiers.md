@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T04:42:15.861Z'
-dateModified: '2016-02-27T04:41:42.099Z'
+datePublished: '2016-02-27T05:10:04.309Z'
+dateModified: '2016-02-27T05:09:33.614Z'
 title: Day 1a
 author: []
 sourcePath: _posts/2016-02-27-qualifiers.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ## Thursday 25th February 2016
 
-The qualifiers for day 1a are as follows:
+The 8 qualifiers for day 1a are as follows:
 
 * Andrew Whitney 230,100
 
