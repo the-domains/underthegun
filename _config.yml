@@ -2,6 +2,7 @@ name: UnderTheGun
 favicon: null
 layout_spectrum: 0.93857
 typography_spectrum: 0.20218
+title: UnderTheGun
 cta:
   domain: null
   bucket: null
