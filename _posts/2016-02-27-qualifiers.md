@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T05:10:04.309Z'
-dateModified: '2016-02-27T05:09:33.614Z'
+datePublished: '2016-02-27T13:08:19.741Z'
+dateModified: '2016-02-27T05:14:59.298Z'
 title: Day 1a
 author: []
 sourcePath: _posts/2016-02-27-qualifiers.md
