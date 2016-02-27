@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T04:30:31.100Z'
-dateModified: '2016-02-27T04:29:40.104Z'
+datePublished: '2016-02-27T04:31:41.017Z'
+dateModified: '2016-02-27T04:31:34.068Z'
 title: Day 1a
 author: []
 sourcePath: _posts/2016-02-27-qualifiers.md
@@ -22,7 +22,7 @@ url: qualifiers/index.html
 _type: Article
 
 ---
-## Day 1a, Thursday 25th February 2016
+## Thursday 25th February 2016
 
 * Andrew Whitney 230,100
 
