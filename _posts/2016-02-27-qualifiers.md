@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Day 1a Qualifiers
-datePublished: '2016-02-27T04:27:48.541Z'
-dateModified: '2016-02-27T04:27:39.360Z'
-title: Day 1a. Thursday 25th February 2016
+description: ''
+datePublished: '2016-02-27T04:30:31.100Z'
+dateModified: '2016-02-27T04:29:40.104Z'
+title: Day 1a
 author: []
 sourcePath: _posts/2016-02-27-qualifiers.md
 published: true
@@ -22,7 +22,7 @@ url: qualifiers/index.html
 _type: Article
 
 ---
-## Day 1a. Thursday 25th February 2016
+## Day 1a, Thursday 25th February 2016
 
 * Andrew Whitney 230,100
 
@@ -40,4 +40,4 @@ _type: Article
 
 * Jon Humphrey 40,600
 
-Average Stack:
+Average Stack: 117,212
