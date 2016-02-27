@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Day 1 Qualifiers
-datePublished: '2016-02-27T04:05:53.312Z'
-dateModified: '2016-02-27T04:05:51.254Z'
-title: Qualifiers
+description: Day 1a Qualifiers
+datePublished: '2016-02-27T04:25:38.943Z'
+dateModified: '2016-02-27T04:24:05.276Z'
+title: Day 1a. Thursday 25th February 2016
 author: []
 sourcePath: _posts/2016-02-27-qualifiers.md
 published: true
@@ -22,4 +22,22 @@ url: qualifiers/index.html
 _type: Article
 
 ---
-A comprehensive list of all day 1 qualifiers thus far
+# Day 1a. Thursday 25th February 2016
+
+* Andrew Whitney 230,100
+
+* Steve Place 190,300
+
+* Lee doran 161,500
+
+* Isaac Lloyd 105,800
+
+* Simon Day 101,800
+
+* Dan Lovell 57,600
+
+* Anthony Ritchie 50,000
+
+* Jon Humphrey 40,600
+
+Average Stack:
