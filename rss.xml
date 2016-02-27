@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[UnderTheGun]]></title>
         <description><![CDATA[UnderTheGun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/underthegun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 03:43:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 03:44:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/underthegun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/caddaf5c-af64-4bd5-8e28-aebefe0e51ec.png">]]></description>
-            <link>undefineda86767e5-c35a-4e79-9d9d-edeaa91f8da4/index.html</link>
+            <link>https://thegrid.ai/underthegun/a86767e5-c35a-4e79-9d9d-edeaa91f8da4/index.html</link>
             <guid isPermaLink="false">a86767e5-c35a-4e79-9d9d-edeaa91f8da4</guid>
-            <pubDate>Sat, 27 Feb 2016 03:43:01 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 03:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
