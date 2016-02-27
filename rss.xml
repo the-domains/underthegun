@@ -4,7 +4,7 @@
         <description><![CDATA[UnderTheGun]]></description>
         <link>https://thegrid.ai/underthegun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 04:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 04:35:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/underthegun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Thursday 25th February 2016]]></title>
-            <description><![CDATA[<h1>Thursday 25th February 2016</h1>]]></description>
+            <description><![CDATA[<article><h1>Thursday 25th February 2016</h1><p>The qualifiers for day 1a are as follows:</p></article>]]></description>
             <link>https://thegrid.ai/underthegun/qualifiers/index.html</link>
             <guid isPermaLink="false">01c6f465-a3cb-41d2-ab6d-26e4cc94bf69</guid>
-            <pubDate>Sat, 27 Feb 2016 04:33:26 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 04:34:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
